@@ -7,5 +7,6 @@ SpaceMC strives to be a leading Minecraft OP Prison network that offers a distin
 - Lead Developer: [Magnetite](https://github.com/MagnetiteMC)  
 - Developer: [9budddy](https://github.com/9budddy)  
 - Developer: [Tavit](https://github.com/Taviitt)  
+- Developer: [Seife](https://github.com/seifedev)  
 - Manager: [Willow](https://github.com/retuning)
 
